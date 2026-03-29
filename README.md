@@ -1,2 +1,2 @@
-# java-odd-and-even-number-calculator
-this has a file that calculates numbers to find odd and even numbers.
+# java-POWER RAISER-calculator
+this has a file that RAISES THE POWER OF THE NUMBERS.
